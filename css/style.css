@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background:rgb(247, 244, 240);
+    background-image: url(../img/p11mu004jn_vdm.jpg);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.form{
+    width: 395px;
+    height: 400px;
+    background-color:rgb(243, 245, 247);
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    position: absolute;
+    border-radius: 10px;
+    padding: 15px;
+    border: 2px solid rgb(231, 234, 235);
+    box-shadow: 4px 5px 23px 0px;
+}
+input{
+    padding: 15px;
+}
+::placeholder{
+    font-size: 16px;
+    color: rgb(250, 4, 148);
+}
+.user{width: 365px;
+height: 50px;
+margin: auto;
+margin-bottom: 10px;
+border: 1px solid rgb(243, 1, 183);
+border-radius: 4px;
+background-image: url(../img/p11mu004jn_vdm.jpg);
+    
+background-repeat: no-repeat;
+background-size: cover;
+}
+button{
+    background: rgb(2, 130, 250);
+    width: 100px;
+    height: 50px;
+    margin: auto;
+    border-radius: 4px;
+    border: none;
+    margin-bottom: 15px;
+}
+.misti{width: 365px;
+    height: 50px;
+    margin: auto;
+    border: none;
+   border-radius: 4px;
+    background: rgb(2, 155, 243);
+    font-size: 20px;
+    color: rgb(236, 236, 209);
+    padding: 0;
+    font-weight:600;
+    
+}
+.misti1{
+text-align: center;
+margin-bottom: 5px;
+
+}
+.misti1 a{
+    text-decoration: none;
+color: rgb(34, 10, 248);
+font-size: 15px;
+
+}
+hr{
+    border: 1px solid rgb(240, 215, 191);
+margin-bottom: 30px;
+}
+
+
+
+.misti2{
+    width: 200px;
+height: 50px;
+background: rgb(71, 240, 71);
+padding: 15px;
+text-align: center;
+margin: auto;
+border-radius: 5px;
+
+}
+.misti2 a{
+    text-decoration: none;
+font-size: 18px;
+color: rgb(17, 16, 16);
+font-weight: 700;
+}
+.misti3{
+    text-align: center;
+margin-bottom: 5px;
+
+}
+.misti3 a{
+    text-decoration: none;
+color: rgb(1, 13, 24);
+font-size: 15px;
+}
+    .form {background-image: url(../img/p11mu004jn_vdm.jpg);
+    
+background-repeat: no-repeat;
+background-size: cover;
+}
